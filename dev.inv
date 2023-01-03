@@ -1,2 +1,2 @@
 [webservers]
-172.16.60.128 ansible_user=jessypango
+172.16.60.128 ansible_user=admin
